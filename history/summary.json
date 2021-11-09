@@ -77,18 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/api.labangmore.com",
     "slug": "labangmore-api",
     "status": "up",
-    "uptime": "0.56%",
-    "uptimeDay": "0.56%",
-    "uptimeWeek": "0.56%",
-    "uptimeMonth": "0.56%",
-    "uptimeYear": "0.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 833,
     "timeDay": 833,
     "timeWeek": 833,
     "timeMonth": 833,
     "timeYear": 833,
-    "dailyMinutesDown": {
-      "2021-11-09": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
