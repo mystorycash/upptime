@@ -12,7 +12,7 @@ sites:
   - name: Labangmore Admin
     url: https://super.labangmore.com/
   - name: Labangmore Api
-    url: https://api.labangmore.com/broadcasts?pag=1&perPage=2
+    url: https://api.labangmore.com/ex/v1/broadcasts?pag=1&perPage=2
     headers:
       - 'x-api-id: $X_API_ID'
       - 'x-api-secret: $X_API_SECRET'
