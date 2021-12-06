@@ -16,7 +16,7 @@ sites:
     headers:
       - 'x-api-id: $X_API_ID'
       - 'x-api-secret: $X_API_SECRET'
-  - name: Labangmore Api
+  - name: Labangmore Api Test
     url: https://api.labangmore.com/ex-test/v1/broadcasts?pag=1&perPage=2
     headers:
       - 'x-api-id: $X_API_TEST_ID'
