@@ -16,6 +16,11 @@ sites:
     headers:
       - 'x-api-id: $X_API_ID'
       - 'x-api-secret: $X_API_SECRET'
+  - name: Labangmore Api
+    url: https://api.labangmore.com/ex-test/v1/broadcasts?pag=1&perPage=2
+    headers:
+      - 'x-api-id: $X_API_TEST_ID'
+      - 'x-api-secret: $X_API_TEST_SECRET'
   - name: Counterce Client
     url: http://superbullet.iptime.org:51402/
     
