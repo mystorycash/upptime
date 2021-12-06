@@ -1,7 +1,7 @@
-url: https://api.labangmore.com/ex/v1/broadcasts?pag=1&perPage=2
+url: https://api.labangmore.com/ex-test/v1/broadcasts?pag=1&perPage=2
 status: up
 code: 200
-responseTime: 6851
-lastUpdated: 2021-12-06T01:31:59.642Z
+responseTime: 1060
+lastUpdated: 2021-12-06T01:32:00.983Z
 startTime: Tue Nov 09 2021 03:40:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
