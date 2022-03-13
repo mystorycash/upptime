@@ -76,19 +76,19 @@
     "url": "https://api.labangmore.com/ex/v1/broadcasts?pag=1&perPage=2",
     "icon": "https://favicons.githubusercontent.com/api.labangmore.com",
     "slug": "labangmore-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2259,
-    "timeDay": 5193,
-    "timeWeek": 2945,
-    "timeMonth": 2237,
-    "timeYear": 2259,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 2257,
+    "timeDay": 4112,
+    "timeWeek": 2834,
+    "timeMonth": 2227,
+    "timeYear": 2257,
     "dailyMinutesDown": {
-      "2022-03-13": 0
+      "2022-03-13": 18
     }
   },
   {
