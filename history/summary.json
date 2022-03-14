@@ -22,18 +22,20 @@
     "url": "https://salaryn.com/",
     "icon": "https://favicons.githubusercontent.com/salaryn.com",
     "slug": "salaryn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1471,
-    "timeDay": 1642,
-    "timeWeek": 1385,
-    "timeMonth": 1456,
-    "timeYear": 1471,
-    "dailyMinutesDown": {}
+    "time": 1543,
+    "timeDay": 6327,
+    "timeWeek": 2589,
+    "timeMonth": 1785,
+    "timeYear": 1543,
+    "dailyMinutesDown": {
+      "2022-03-14": 0
+    }
   },
   {
     "name": "Labangmore",
