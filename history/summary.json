@@ -4,9 +4,9 @@
     "url": "https://www.superbullet.co.kr/",
     "icon": "https://favicons.githubusercontent.com/www.superbullet.co.kr",
     "slug": "superbullet-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 755,
     "timeMonth": 387,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-12": 0
+    }
   },
   {
     "name": "Salaryn",
@@ -117,12 +119,12 @@
     "status": "up",
     "uptime": "98.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.15%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "98.84%",
     "time": 1104,
     "timeDay": 1088,
-    "timeWeek": 1206,
+    "timeWeek": 1231,
     "timeMonth": 1167,
     "timeYear": 1104,
     "dailyMinutesDown": {
