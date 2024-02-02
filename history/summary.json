@@ -76,18 +76,20 @@
     "url": "https://api.labangmore.com/ex/v1/broadcasts?pag=1&perPage=2",
     "icon": "https://icons.duckduckgo.com/ip3/api.labangmore.com.ico",
     "slug": "labangmore-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3341,
-    "timeDay": 3093,
-    "timeWeek": 3200,
-    "timeMonth": 3267,
-    "timeYear": 3434,
-    "dailyMinutesDown": {}
+    "time": 3337,
+    "timeDay": 1832,
+    "timeWeek": 2871,
+    "timeMonth": 3183,
+    "timeYear": 3426,
+    "dailyMinutesDown": {
+      "2024-02-02": 0
+    }
   },
   {
     "name": "Labangmore Api Test",
@@ -113,7 +115,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/superbullet.iptime.org.ico",
     "slug": "counterce-client",
     "status": "down",
-    "uptime": "67.12%",
+    "uptime": "67.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -124,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 1000,
     "dailyMinutesDown": {
-      "2024-02-02": 61,
+      "2024-02-02": 852,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
