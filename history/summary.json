@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 151,
-    "timeWeek": 337,
+    "timeDay": 244,
+    "timeWeek": 350,
     "timeMonth": 287,
     "timeYear": 267,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1217,
-    "timeDay": 1359,
-    "timeWeek": 1249,
+    "timeDay": 1373,
+    "timeWeek": 1259,
     "timeMonth": 1240,
     "timeYear": 1209,
     "dailyMinutesDown": {}
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 137,
-    "timeWeek": 87,
+    "timeDay": 72,
+    "timeWeek": 86,
     "timeMonth": 86,
-    "timeYear": 121,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   },
   {
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 72,
-    "timeWeek": 107,
-    "timeMonth": 85,
+    "timeDay": 114,
+    "timeWeek": 109,
+    "timeMonth": 87,
     "timeYear": 102,
     "dailyMinutesDown": {}
   },
@@ -82,10 +82,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3375,
-    "timeDay": 3091,
-    "timeWeek": 3528,
-    "timeMonth": 3630,
+    "time": 3376,
+    "timeDay": 3011,
+    "timeWeek": 3445,
+    "timeMonth": 3576,
     "timeYear": 3472,
     "dailyMinutesDown": {}
   },
@@ -101,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2939,
-    "timeDay": 2119,
-    "timeWeek": 1615,
-    "timeMonth": 2355,
+    "timeDay": 2042,
+    "timeWeek": 1737,
+    "timeMonth": 2352,
     "timeYear": 2706,
     "dailyMinutesDown": {}
   },
@@ -113,7 +113,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/superbullet.iptime.org.ico",
     "slug": "counterce-client",
     "status": "down",
-    "uptime": "64.73%",
+    "uptime": "64.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -124,7 +124,8 @@
     "timeMonth": 0,
     "timeYear": 1000,
     "dailyMinutesDown": {
-      "2024-03-03": 63,
+      "2024-03-04": 61,
+      "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
@@ -351,8 +352,7 @@
       "2023-03-09": 1440,
       "2023-03-08": 1440,
       "2023-03-07": 1440,
-      "2023-03-06": 1440,
-      "2023-03-05": 1440
+      "2023-03-06": 1440
     }
   }
 ]
