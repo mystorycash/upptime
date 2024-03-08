@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 204,
-    "timeWeek": 257,
+    "timeDay": 213,
+    "timeWeek": 214,
     "timeMonth": 288,
     "timeYear": 268,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1215,
-    "timeDay": 1021,
-    "timeWeek": 1229,
-    "timeMonth": 1232,
+    "timeDay": 1282,
+    "timeWeek": 1223,
+    "timeMonth": 1227,
     "timeYear": 1208,
     "dailyMinutesDown": {}
   },
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 93,
-    "timeWeek": 90,
-    "timeMonth": 84,
-    "timeYear": 120,
+    "timeDay": 161,
+    "timeWeek": 96,
+    "timeMonth": 88,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   },
   {
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 224,
-    "timeWeek": 119,
-    "timeMonth": 92,
+    "timeDay": 103,
+    "timeWeek": 118,
+    "timeMonth": 94,
     "timeYear": 103,
     "dailyMinutesDown": {}
   },
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3380,
-    "timeDay": 3518,
-    "timeWeek": 3498,
-    "timeMonth": 3585,
-    "timeYear": 3475,
+    "time": 3381,
+    "timeDay": 2958,
+    "timeWeek": 3479,
+    "timeMonth": 3569,
+    "timeYear": 3474,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2917,
-    "timeDay": 1224,
-    "timeWeek": 1571,
-    "timeMonth": 2291,
-    "timeYear": 2699,
+    "time": 2898,
+    "timeDay": 1031,
+    "timeWeek": 1417,
+    "timeMonth": 2285,
+    "timeYear": 2672,
     "dailyMinutesDown": {}
   },
   {
@@ -113,7 +113,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/superbullet.iptime.org.ico",
     "slug": "counterce-client",
     "status": "down",
-    "uptime": "64.42%",
+    "uptime": "64.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -124,7 +124,8 @@
     "timeMonth": 0,
     "timeYear": 1000,
     "dailyMinutesDown": {
-      "2024-03-07": 50,
+      "2024-03-08": 60,
+      "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
@@ -351,8 +352,7 @@
       "2023-03-13": 1440,
       "2023-03-12": 1440,
       "2023-03-11": 1440,
-      "2023-03-10": 1440,
-      "2023-03-09": 1440
+      "2023-03-10": 1440
     }
   }
 ]
