@@ -4,10 +4,10 @@
     "url": "https://www.superbullet.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.superbullet.co.kr.ico",
     "slug": "superbullet-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
@@ -15,7 +15,9 @@
     "timeWeek": 425,
     "timeMonth": 371,
     "timeYear": 280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-13": 1
+    }
   },
   {
     "name": "Salaryn",
@@ -113,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/superbullet.iptime.org.ico",
     "slug": "counterce-client",
     "status": "down",
-    "uptime": "59.70%",
+    "uptime": "59.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "27.90%",
+    "uptimeYear": "27.83%",
     "time": 994,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2024-05-13": 67,
+      "2024-05-13": 459,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
