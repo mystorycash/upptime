@@ -62,19 +62,19 @@
     "url": "https://super.labangmore.com/",
     "icon": "https://icons.duckduckgo.com/ip3/super.labangmore.com.ico",
     "slug": "labangmore-admin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 102,
-    "timeWeek": 109,
+    "timeDay": 111,
+    "timeWeek": 110,
     "timeMonth": 116,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-09-12": 1
+      "2024-09-12": 32
     }
   },
   {
@@ -130,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 719,
+      "2024-09-12": 751,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
