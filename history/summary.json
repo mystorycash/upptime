@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 882,
-    "timeDay": 2898,
-    "timeWeek": 2749,
-    "timeMonth": 2706,
-    "timeYear": 1102,
+    "time": 887,
+    "timeDay": 2793,
+    "timeWeek": 2769,
+    "timeMonth": 2724,
+    "timeYear": 1109,
     "dailyMinutesDown": {
       "2024-08-04": 56,
       "2024-05-14": 395,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1237,
-    "timeDay": 1404,
-    "timeWeek": 1282,
-    "timeMonth": 1282,
-    "timeYear": 1248,
+    "timeDay": 1311,
+    "timeWeek": 1290,
+    "timeMonth": 1291,
+    "timeYear": 1249,
     "dailyMinutesDown": {}
   },
   {
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 74,
-    "timeWeek": 86,
+    "timeDay": 90,
+    "timeWeek": 76,
     "timeMonth": 133,
     "timeYear": 121,
     "dailyMinutesDown": {}
@@ -69,8 +69,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 116,
-    "timeWeek": 104,
+    "timeDay": 94,
+    "timeWeek": 102,
     "timeMonth": 113,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3368,
-    "timeDay": 2657,
-    "timeWeek": 2855,
-    "timeMonth": 3042,
-    "timeYear": 3250,
+    "time": 3367,
+    "timeDay": 2557,
+    "timeWeek": 2846,
+    "timeMonth": 3038,
+    "timeYear": 3248,
     "dailyMinutesDown": {}
   },
   {
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4271,
-    "timeDay": 1199,
-    "timeWeek": 4082,
-    "timeMonth": 6130,
-    "timeYear": 4895,
+    "time": 4269,
+    "timeDay": 1011,
+    "timeWeek": 4059,
+    "timeMonth": 6106,
+    "timeYear": 4894,
     "dailyMinutesDown": {}
   },
   {
@@ -119,7 +119,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/superbullet.iptime.org.ico",
     "slug": "counterce-client",
     "status": "down",
-    "uptime": "52.41%",
+    "uptime": "52.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -130,7 +130,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 64,
+      "2024-09-18": 76,
+      "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -493,8 +494,7 @@
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
-      "2023-09-20": 1440,
-      "2023-09-19": 1440
+      "2023-09-20": 1440
     }
   }
 ]
