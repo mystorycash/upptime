@@ -1,7 +1,7 @@
 url: https://api.labangmore.com/ex/v1/broadcasts?pag=1&perPage=2
-status: down
-code: 500
-responseTime: 22445
-lastUpdated: 2024-09-18T19:56:03.525Z
+status: up
+code: 200
+responseTime: 2862
+lastUpdated: 2024-09-18T20:11:25.813Z
 startTime: 2021-11-09T03:40:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
