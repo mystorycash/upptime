@@ -102,19 +102,19 @@
     "url": "https://api.labangmore.com/ex-test/v1/broadcasts?pag=1&perPage=2",
     "icon": "https://icons.duckduckgo.com/ip3/api.labangmore.com.ico",
     "slug": "labangmore-api-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.86%",
+    "uptimeDay": "97.81%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 4339,
+    "time": 4344,
     "timeDay": 12862,
     "timeWeek": 7332,
     "timeMonth": 6875,
     "timeYear": 4969,
     "dailyMinutesDown": {
-      "2024-09-18": 31
+      "2024-09-18": 32
     }
   },
   {
@@ -134,7 +134,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-18": 1229,
+      "2024-09-18": 1247,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
