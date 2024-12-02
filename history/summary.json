@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 1261,
-    "timeDay": 2752,
-    "timeWeek": 2826,
-    "timeMonth": 2727,
-    "timeYear": 1602,
+    "time": 1265,
+    "timeDay": 2074,
+    "timeWeek": 2697,
+    "timeMonth": 2680,
+    "timeYear": 1607,
     "dailyMinutesDown": {
       "2024-09-26": 32,
       "2024-08-04": 56,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1249,
-    "timeDay": 1272,
-    "timeWeek": 1327,
-    "timeMonth": 1297,
+    "timeDay": 1073,
+    "timeWeek": 1291,
+    "timeMonth": 1287,
     "timeYear": 1262,
     "dailyMinutesDown": {}
   },
@@ -52,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 109,
-    "timeWeek": 96,
+    "timeDay": 102,
+    "timeWeek": 91,
     "timeMonth": 95,
     "timeYear": 125,
     "dailyMinutesDown": {}
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 104,
-    "timeWeek": 186,
-    "timeMonth": 115,
+    "timeDay": 95,
+    "timeWeek": 187,
+    "timeMonth": 116,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2024-09-12": 32
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3457,
-    "timeDay": 2546,
-    "timeWeek": 4586,
-    "timeMonth": 3502,
-    "timeYear": 3362,
+    "time": 3456,
+    "timeDay": 3412,
+    "timeWeek": 4590,
+    "timeMonth": 3532,
+    "timeYear": 3360,
     "dailyMinutesDown": {
       "2024-09-18": 15
     }
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 5247,
-    "timeDay": 1161,
-    "timeWeek": 9525,
-    "timeMonth": 9456,
-    "timeYear": 6262,
+    "time": 5266,
+    "timeDay": 11456,
+    "timeWeek": 9744,
+    "timeMonth": 9797,
+    "timeYear": 6288,
     "dailyMinutesDown": {
       "2024-09-18": 65
     }
@@ -124,18 +124,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/superbullet.iptime.org.ico",
     "slug": "counterce-client",
     "status": "down",
-    "uptime": "48.89%",
+    "uptime": "48.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1004,
+    "time": 1000,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-01": 106,
+      "2024-12-02": 97,
+      "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
@@ -498,8 +499,7 @@
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
-      "2023-12-04": 1440,
-      "2023-12-03": 1440
+      "2023-12-04": 1440
     }
   }
 ]
