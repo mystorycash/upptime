@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
-    "time": 2413,
-    "timeDay": 3156,
-    "timeWeek": 2736,
-    "timeMonth": 2646,
+    "time": 2417,
+    "timeDay": 2217,
+    "timeWeek": 2635,
+    "timeMonth": 2613,
     "timeYear": 2664,
     "dailyMinutesDown": {
       "2025-05-19": 588,
@@ -31,18 +31,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/salaryn.com.ico",
     "slug": "salaryn",
     "status": "down",
-    "uptime": "86.63%",
+    "uptime": "86.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "50.45%",
-    "time": 1269,
+    "uptimeYear": "50.18%",
+    "time": 1268,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1271,
     "dailyMinutesDown": {
-      "2025-07-24": 111,
+      "2025-07-25": 111,
+      "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -238,9 +239,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 151,
-    "timeWeek": 109,
-    "timeMonth": 153,
+    "timeDay": 89,
+    "timeWeek": 108,
+    "timeMonth": 152,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -255,11 +256,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 128,
-    "timeDay": 191,
-    "timeWeek": 131,
-    "timeMonth": 192,
-    "timeYear": 131,
+    "time": 129,
+    "timeDay": 529,
+    "timeWeek": 187,
+    "timeMonth": 204,
+    "timeYear": 132,
     "dailyMinutesDown": {
       "2024-09-12": 32
     }
@@ -275,11 +276,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3300,
-    "timeDay": 3825,
-    "timeWeek": 3261,
-    "timeMonth": 3361,
-    "timeYear": 3366,
+    "time": 3301,
+    "timeDay": 3725,
+    "timeWeek": 3275,
+    "timeMonth": 3297,
+    "timeYear": 3368,
     "dailyMinutesDown": {
       "2024-09-18": 15
     }
@@ -295,11 +296,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 6805,
-    "timeDay": 11341,
-    "timeWeek": 4504,
-    "timeMonth": 4341,
-    "timeYear": 6689,
+    "time": 6823,
+    "timeDay": 10260,
+    "timeWeek": 5411,
+    "timeMonth": 4324,
+    "timeYear": 6686,
     "dailyMinutesDown": {
       "2025-03-28": 21,
       "2024-09-18": 65
@@ -311,7 +312,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/superbullet.iptime.org.ico",
     "slug": "counterce-client",
     "status": "down",
-    "uptime": "40.38%",
+    "uptime": "40.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -322,7 +323,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-24": 111,
+      "2025-07-25": 111,
+      "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -685,8 +687,7 @@
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
-      "2024-07-26": 1440,
-      "2024-07-25": 1440
+      "2024-07-26": 1440
     }
   }
 ]
