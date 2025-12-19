@@ -29,18 +29,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/salaryn.com.ico",
     "slug": "salaryn",
     "status": "down",
-    "uptime": "78.09%",
+    "uptime": "78.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "9.91%",
+    "uptimeYear": "9.73%",
     "time": 1268,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2025-12-19": 106,
+      "2025-12-19": 1041,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
@@ -377,9 +377,9 @@
     "url": "https://www.labangmore.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.labangmore.com.ico",
     "slug": "labangmore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -388,16 +388,18 @@
     "timeWeek": 201,
     "timeMonth": 172,
     "timeYear": 155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-19": 0
+    }
   },
   {
     "name": "Labangmore Admin",
     "url": "https://super.labangmore.com/",
     "icon": "https://icons.duckduckgo.com/ip3/super.labangmore.com.ico",
     "slug": "labangmore-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -406,43 +408,48 @@
     "timeWeek": 138,
     "timeMonth": 133,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-19": 0
+    }
   },
   {
     "name": "Labangmore Api",
     "url": "https://api.labangmore.com/ex/v1/broadcasts?pag=1&perPage=2",
     "icon": "https://icons.duckduckgo.com/ip3/api.labangmore.com.ico",
     "slug": "labangmore-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3410,
+    "time": 3412,
     "timeDay": 4416,
     "timeWeek": 3723,
     "timeMonth": 3568,
     "timeYear": 3321,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-19": 0
+    }
   },
   {
     "name": "Labangmore Api Test",
     "url": "https://api.labangmore.com/ex-test/v1/broadcasts?pag=1&perPage=2",
     "icon": "https://icons.duckduckgo.com/ip3/api.labangmore.com.ico",
     "slug": "labangmore-api-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6038,
+    "time": 6031,
     "timeDay": 1953,
     "timeWeek": 6080,
     "timeMonth": 5765,
     "timeYear": 5119,
     "dailyMinutesDown": {
+      "2025-12-19": 0,
       "2025-03-28": 21
     }
   },
@@ -452,7 +459,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/superbullet.iptime.org.ico",
     "slug": "counterce-client",
     "status": "down",
-    "uptime": "36.39%",
+    "uptime": "36.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -463,7 +470,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-19": 106,
+      "2025-12-19": 1041,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
