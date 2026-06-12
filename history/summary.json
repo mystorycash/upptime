@@ -10,11 +10,11 @@
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 2622,
-    "timeDay": 2975,
-    "timeWeek": 2940,
-    "timeMonth": 2621,
-    "timeYear": 2607,
+    "time": 2624,
+    "timeDay": 3266,
+    "timeWeek": 3055,
+    "timeMonth": 2631,
+    "timeYear": 2608,
     "dailyMinutesDown": {
       "2026-06-07": 68
     }
@@ -27,14 +27,14 @@
     "status": "up",
     "uptime": "70.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "50.27%",
-    "uptimeMonth": "9.66%",
-    "uptimeYear": "0.96%",
-    "time": 165,
-    "timeDay": 165,
-    "timeWeek": 165,
-    "timeMonth": 165,
-    "timeYear": 165,
+    "uptimeWeek": "50.59%",
+    "uptimeMonth": "9.74%",
+    "uptimeYear": "0.97%",
+    "time": 171,
+    "timeDay": 195,
+    "timeWeek": 171,
+    "timeMonth": 171,
+    "timeYear": 171,
     "dailyMinutesDown": {
       "2026-06-08": 689,
       "2026-06-07": 1440,
@@ -396,8 +396,7 @@
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
-      "2025-06-13": 1440,
-      "2025-06-12": 1440
+      "2025-06-13": 1440
     }
   },
   {
@@ -405,19 +404,18 @@
     "url": "https://www.labangmore.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.labangmore.com.ico",
     "slug": "labangmore",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "44.56%",
-    "uptimeWeek": "67.26%",
+    "uptimeDay": "45.61%",
+    "uptimeWeek": "67.38%",
     "uptimeMonth": "88.52%",
-    "uptimeYear": "97.32%",
-    "time": 783,
-    "timeDay": 6761,
+    "uptimeYear": "97.33%",
+    "time": 784,
+    "timeDay": 8017,
     "timeWeek": 3815,
-    "timeMonth": 2759,
+    "timeMonth": 2798,
     "timeYear": 1022,
     "dailyMinutesDown": {
-      "2026-03-19": 45,
       "2026-03-20": 102,
       "2026-03-21": 194,
       "2026-03-22": 268,
@@ -475,7 +473,8 @@
       "2026-06-08": 644,
       "2026-06-09": 718,
       "2026-06-10": 871,
-      "2026-06-11": 794
+      "2026-06-11": 794,
+      "2026-06-12": 2
     }
   },
   {
@@ -495,7 +494,8 @@
     "timeMonth": 0,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2026-06-11": 1436,
+      "2026-06-12": 28,
+      "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -683,13 +683,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "52.25%",
-    "time": 3369,
+    "time": 3372,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3443,
     "dailyMinutesDown": {
-      "2026-06-11": 1436,
+      "2026-06-12": 28,
+      "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -872,18 +873,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.labangmore.com.ico",
     "slug": "labangmore-api-test",
     "status": "down",
-    "uptime": "89.43%",
+    "uptime": "89.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "52.25%",
-    "time": 5426,
+    "time": 5436,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 4666,
     "dailyMinutesDown": {
-      "2026-06-11": 1436,
+      "2026-06-12": 29,
+      "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -1077,7 +1079,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-11": 1436,
+      "2026-06-12": 29,
+      "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -1440,8 +1443,7 @@
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
-      "2025-06-13": 1440,
-      "2025-06-12": 1440
+      "2025-06-13": 1440
     }
   }
 ]
